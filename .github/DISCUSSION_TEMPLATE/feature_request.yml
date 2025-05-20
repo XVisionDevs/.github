@@ -1,5 +1,5 @@
-name: "Feature Request"
-description: "use this template to propose a new feature."
+title: "Feature Request"
+labels: ["feature-request", "discussion"]
 body:
 - type: textarea
   id: overview
