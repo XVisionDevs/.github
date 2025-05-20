@@ -1,7 +1,7 @@
-title: "Feature Request"
+title: "🌟 Feature Request"  
 labels: ["feature-request", "discussion"]
 body:
-- type: textarea
+ - type: textarea
   id: overview
   attributes:
     label: "Overview"
